@@ -1,4 +1,4 @@
-Hey, I'm Damon. I'm currently live in Chengdu, China. A PHP/Go back-end developer.
+Hey, I'm Damon. I'm currently live in China. A PHP/Go back-end developer.
 
 <!--
 **damonto/damonto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
